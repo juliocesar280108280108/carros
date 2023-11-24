@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+:root {
+    --orange: #e38826;
+    --cyan: #006970;
+    --dark_cyan: #004241;
+    --gray: #f2f2f2;
+    --transparent: rgba(255,255,255,0.75);
+}
+
+h2{
+    font-family: 'big shouders display',sans-serif;
+}
+
+p{
+    font-family: 'lexend deca', sans-serif;
+}
+
+a{
+    font-family: 'lexend deca',sans-serif;
+}
